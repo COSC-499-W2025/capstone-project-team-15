@@ -1,4 +1,4 @@
-# Team Log (September 15 - 21, 2025)
+# Team log (September 15 - 21, 2025)
 
 ## Attendees
 - Rylan Millar
