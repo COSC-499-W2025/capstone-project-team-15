@@ -15,3 +15,7 @@
 - Create and submit our system architecture.  
 - Prepare and submit our project proposal.  
 - Ensure weekly logs (both individual and team) are consistently completed and merged in the repository.
+
+## Peer evaluation screenshot
+
+![alt text](<LuisWen.png>)
