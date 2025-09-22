@@ -13,3 +13,6 @@
 - Deciding roles for team members
 - Start more specific, in depth planning for the project
 - fine tune requirements as necessary as planning continues
+
+## Peer Evaluation screenshot
+![alt text](Alex Batke PE1.png) 
