@@ -14,3 +14,7 @@
 - Further refine the planned structure of our app
 - Decide who will be doing what on the project more concretely.
 - Refine requirements as needed.
+
+
+![Alt text](./LiamStorgaard.png)
+![Alt text](./LiamStorgaard2.png)
