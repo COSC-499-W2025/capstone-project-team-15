@@ -14,4 +14,4 @@
 
 ## Peer evaluation screenshot
 
-![alt text](<imgs/MillarPE1.PNG>)
+![alt text](<imgs/rylan_millar_w3.PNG>)
