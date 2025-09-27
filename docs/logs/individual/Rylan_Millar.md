@@ -14,4 +14,4 @@
 
 ## Peer evaluation screenshot
 
-![alt text](<MillarPE1.PNG>)
+![alt text](<imgs/MillarPE1.PNG>)
