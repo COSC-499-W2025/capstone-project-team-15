@@ -16,5 +16,5 @@
 - Refine requirements as needed.
 
 
-![Alt text](./LiamStorgaard.png)
-![Alt text](./LiamStorgaard2.png)
+![Alt text](./images/LiamStorgaard.png)
+![Alt text](./images/LiamStorgaard2.png)
