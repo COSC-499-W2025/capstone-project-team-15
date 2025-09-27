@@ -18,4 +18,4 @@
 
 ## Peer evaluation screenshot
 
-![alt text](<LuisWen.png>)
+![alt text](<imgs/luis_wen_w3.png>)
