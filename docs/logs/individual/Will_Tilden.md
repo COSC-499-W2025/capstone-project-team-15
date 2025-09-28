@@ -14,3 +14,5 @@
 - Clarify and solidify requirements to the point that they are ready to inform coding / building decisions
 - Delegate roles and responsibilities as far as who should work on which part(s) of the app
 - Develop a sprint structure and cycle of some kind to keep the team synchronized and organized in moving forward with the project at the right pace and in an organized fashion
+
+![Alt text](imgs/will_tilden_w3.png)

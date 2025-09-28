@@ -24,4 +24,4 @@
 
 
 ## Peer evaluation screenshot
-![alt text](<ColeWL3.png>)
+![alt text](<imgs/cole_powrie_w3.png>)

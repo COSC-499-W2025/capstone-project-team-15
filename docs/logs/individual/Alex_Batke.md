@@ -15,4 +15,4 @@
 - fine tune requirements as necessary as planning continues
 
 ## Peer Evaluation screenshot
-![alt text](Alex Batke PE1.png) 
+![alt text](imgs/alex_batke_w3.png) 

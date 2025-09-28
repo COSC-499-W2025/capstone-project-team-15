@@ -19,6 +19,7 @@
 - Refine requirements as needed.
 
 
+<<<<<<< HEAD
 ![Alt text](./images/LiamStorgaard.png)
 ![Alt text](./images/LiamStorgaard2.png)
 
@@ -42,3 +43,6 @@
 ![Alt text](./images/LiamStorgaard_Week4.png)
 
 
+=======
+![Alt text](imgs/liam_storgaard_w3.png)
+>>>>>>> 4cd65fab86bd9dc7758b6efef1baf171296a928d
