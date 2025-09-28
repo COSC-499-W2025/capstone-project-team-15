@@ -1,3 +1,26 @@
+# Personal log of Luis Wen (from Week 4)
+
+## What went well
+
+- The team discussion was better than last week, and we were able to share and compare our system architecture design with other teams.
+- After the discussion, our team made some adjustments to our requirements
+- We discussed and made final adjustments to our design
+
+## What didn’t go well
+
+- After discussing our system architecture design with 2 other teams, we were left wondering if we had to continue talking with other teams  
+- The allotted time was more than enough to discuss with other teams
+
+## Planning for the next cycle
+
+- Create and submit our DFD  
+- Prepare for the discussion on Wednesday  
+- Ensure weekly logs (both individual and team) are consistently completed and merged in the repository
+
+## Peer evaluation screenshot
+
+![alt text](</docs/logs/individual/images/LuisWen_Week4.png>)
+
 # Personal log of Luis Wen (from Week 3)
 
 ## What went well
@@ -18,4 +41,4 @@
 
 ## Peer evaluation screenshot
 
-![alt text](<imgs/luis_wen_w3.png>)
+![alt text](</docs/logs/individual/imgs/luis_wen_w3.png>)
