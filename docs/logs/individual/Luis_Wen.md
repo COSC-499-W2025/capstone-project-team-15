@@ -1,27 +1,31 @@
 # Personal log of Luis Wen (from Week 4)
 
-## What went well
+## Features in this milestone
 
-- The team discussion was better than last week, and we were able to share and compare our system architecture design with other teams.
-- After the discussion, our team made some adjustments to our requirements
-- We discussed and made final adjustments to our design
+- The layout of the system architecture design
+- Developed the project proposal
+- Updated kanban board with new tasks/issues
 
-## What didn’t go well
+## Project board tasks
 
-- After discussing our system architecture design with 2 other teams, we were left wondering if we had to continue talking with other teams  
-- The allotted time was more than enough to discuss with other teams
+- Issue #4 and #5 are associated with the features mentioned above
+- Both are completed/done
 
-## Planning for the next cycle
+## Work done in last 2 weeks
 
-- Create and submit our DFD  
-- Prepare for the discussion on Wednesday  
-- Ensure weekly logs (both individual and team) are consistently completed and merged in the repository
+- Helped complete the system architecture design
+- Assisted in developing the project proposal
+- Created the kanban board and team planning for the team
+- Established proper folder structure as per the slides
 
-## Peer evaluation screenshot
+## Peer evaluation screenshot week 4
 
 ![alt text](</docs/logs/individual/images/LuisWen_Week4.png>)
 
-# Personal log of Luis Wen (from Week 3)
+---
+---
+
+## Personal log of Luis Wen (from Week 3)
 
 ## What went well
 
@@ -39,6 +43,6 @@
 - Prepare and submit our project proposal.  
 - Ensure weekly logs (both individual and team) are consistently completed and merged in the repository.
 
-## Peer evaluation screenshot
+## Peer evaluation screenshot week 3
 
 ![alt text](</docs/logs/individual/imgs/luis_wen_w3.png>)
