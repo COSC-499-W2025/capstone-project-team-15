@@ -1,3 +1,21 @@
+# Personal log of Cole Powrie (from Week 4)
+## Applicable Date Range
+- Monday, September 22nd to Sunday, September 28th
+
+## Peer evaluation screenshot
+![alt text](<imgs/cole_powrie_w3.png>)
+
+## Recap On Your Weeks Goals
+- Which Features Were Yours in the Project Plan for this Milestone?
+  I helped with front end aspect for our project proposal as well as the system architecture diagram, which we did through .Fimga
+- Which Tasks from the Project Board are Associtaed with these Features?
+  We recorded these tasks as issues in our GitHub repository and made sure that we divided tasks evenly for the proposal and system architecture diagram.
+- Among these tasks, which have you completed/in progress in the last 2 weeks?
+  We completed our project proposal and system architecture diagram this week.
+- Optional text: additional context that we should be aware of:
+  Good communication and effort from everyone in the team!
+  
+
 # Personal log of Cole Powrie (from Week 3)
 
 
@@ -23,5 +41,4 @@
 - Completing our system architecture diagram
 
 
-## Peer evaluation screenshot
-![alt text](<imgs/cole_powrie_w3.png>)
+
