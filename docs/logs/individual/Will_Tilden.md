@@ -1,3 +1,32 @@
+# Personal log of Will Tilden (from Week 4) as per the personal log format outlined in lecture slides
+
+## Applicable date range
+- Monday, September 22nd to Sunday, September 28th
+
+## Type of tasks I worked on
+![Alt text](imgs/will_tilden_w4.png)
+
+## Recap on your weeks goals
+
+- Which features were yours in the project plan for this milestone?
+
+    I was working on the project proposal and the system architecture diagram along with the rest of the team which we finished well and on time.
+
+- Which tasks from the project board are associated with these features?
+
+    These features, the proposal and system architecture diagram, were recorded as issues in our github repository and have all team members listed on them as assignees.
+
+- Among these tasks, which have you completed / in progress in the last 2 weeks?
+
+    This week we completed both the project proposal and the system architecture diagram and next week we will move on to the data flow diagram.
+
+- Optional text: additional context that we should be aware of
+
+    Another good week with a good team! Looking forward to working with this team throughout the year.
+
+
+
+
 # Personal log of Will Tilden (from Week 3)
 
 ## What went well
