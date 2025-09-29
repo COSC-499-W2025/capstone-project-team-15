@@ -1,4 +1,4 @@
-#Personal Log for Rylan Millar (33334400) Week 3
+#Personal Log for Rylan Millar (33334400) Week 3 September 15-21
 
 ## What went well
 - Our team is already working together effectively and our team gets along well
@@ -12,6 +12,30 @@
 - Ensure this week runs a lot smoother than last week
 - Begin the planning of our project more in depth
 
-## Peer evaluation screenshot
+## Peer evaluation screenshot Week 3
 
 ![alt text](<imgs/rylan_millar_w3.PNG>)
+
+---
+---
+
+#Personal Log for Rylan Millar (33334400) Week 4 September 22-28
+
+## Features from the project plant this week
+- I helped create the branching structure for our repo
+- I reorganized folders and branches
+- I am reasearching the machine learning portion of this project
+
+## Tasks from the project board associated with these features
+- Create branching structure
+- Reorganize folders and branches
+- Research machine learning
+
+## Completed and In Progress
+- Fix the branching structure of the repo (completed)
+- Reorganize the folders and branches (completed)
+- Research machine learning techniques in Python for our project (in progress)
+
+## Peer evaluation screenshot Week 4
+
+![alt text](<imgs/rylan_millar_w4.PNG>)
