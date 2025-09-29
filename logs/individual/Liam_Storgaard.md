@@ -20,8 +20,8 @@
 
 
 <<<<<<< HEAD
-![Alt text](./images/LiamStorgaard.png)
-![Alt text](./images/LiamStorgaard2.png)
+![Alt text](./imgs/LiamStorgaard.png)
+![Alt text](./imgs/LiamStorgaard2.png)
 
 
 ## Week 4
@@ -40,7 +40,7 @@
 - Prepare to assign roles to people based on their skills
 - Begin discussing the technical details of the ML processing (which python framework, model, etc. to use).
 - Come up with a plan for which tasks to complete first when we eventually do begin programming.
-![Alt text](./images/LiamStorgaard_Week4.png)
+![Alt text](./imgs/LiamStorgaard_Week4.png)
 
 
 =======

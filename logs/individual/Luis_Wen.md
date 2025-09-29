@@ -20,7 +20,7 @@
 
 ## Peer evaluation screenshot week 4
 
-![alt text](</docs/logs/individual/images/LuisWen_Week4.png>)
+![alt text](</docs/logs/individual/imgs/LuisWen_Week4.png>)
 
 ---
 ---
