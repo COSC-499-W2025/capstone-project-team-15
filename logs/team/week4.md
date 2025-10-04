@@ -26,11 +26,11 @@
 
 ## Table view (Completed)
 
-![alt text](</docs/logs/team/completedW4.png>)
+![alt text](</logs/team/completedW4.png>)
 
 ## Table view (In progress)
 
-![alt text](</docs/logs/team/inprogressW4.png>)
+![alt text](</logs/team/inprogressW4.png>)
 
 ## Test report
 

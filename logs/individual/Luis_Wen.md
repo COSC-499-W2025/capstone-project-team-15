@@ -1,3 +1,27 @@
+# Personal log of Luis Wen (from Week 5)
+
+## Features in this milestone
+
+- The creation of data flow diagram for the project
+- Created leevl 0 and level 1 DFD's
+- Finalized the level 1 data flow diagram
+
+## Project board tasks
+
+- Issue #9 is associated with the features mentioned above
+- It is complete
+
+## Work done in last 2 weeks
+
+- Created the level 0 and level 1 data flow diagram
+- Assisted in updating the levl 1 DFD
+- Helped with the project proposal
+- Assisted with the system architecture design
+
+## Peer evaluation screenshot week 5
+
+![alt text](</logs/individual/imgs/LuisWen_Week5.png>)
+
 # Personal log of Luis Wen (from Week 4)
 
 ## Features in this milestone
@@ -20,7 +44,7 @@
 
 ## Peer evaluation screenshot week 4
 
-![alt text](</docs/logs/individual/imgs/LuisWen_Week4.png>)
+![alt text](</logs/individual/imgs/LuisWen_Week4.png>)
 
 ---
 ---
@@ -45,4 +69,4 @@
 
 ## Peer evaluation screenshot week 3
 
-![alt text](</docs/logs/individual/imgs/luis_wen_w3.png>)
+![alt text](</logs/individual/imgs/luis_wen_w3.png>)
